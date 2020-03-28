@@ -1,1 +1,1 @@
-## COVID-19 RealTimeVisulationNepal
+## COVID-19 RealTimeVisulalizationNepal
